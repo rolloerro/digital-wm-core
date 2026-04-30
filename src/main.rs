@@ -6,7 +6,7 @@ use serde::{Deserialize, Serialize};
 use std::net::SocketAddr;
 
 #[derive(Serialize, Deserialize)]
-struct EchoRequest {
+struct EchoRequest { 
     message: String,
 }
 
