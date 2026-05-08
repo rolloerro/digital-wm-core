@@ -1,7 +1,7 @@
 🇷🇺 Русская версия
 digital-wm-core
 
-Core backend системы Digital World Medicine
+Core backend системы Digital World Medicine 
 
 digital-wm-core — это центральный сервер (ядро) экосистемы Digital World Medicine, построенный на Rust (Axum). Он предназначен для управления API, интеграций сервисов, Telegram-ботов и медицинских вычислительных модулей.
 
